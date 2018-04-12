@@ -1,2 +1,2 @@
-# HelloWorld-StandAloneClientApplication
-HelloWorld WebService Client Application
+# HelloWorld-WebService-ClientApplication
+HelloWorld StandAlone Client Application
